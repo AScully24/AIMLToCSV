@@ -12,7 +12,7 @@ public class AIMLToCSV {
         Converter converter = new Converter("H:\\My Documents\\NetBeansProjects\\JarvisTest\\program-ab\\bots\\jarvis\\aiml\\request.aiml");
         AIMLFile file = converter.fileToObject();
         
-        for (AIMLCategory c : file.getCatergories()) {
+        for (AIMLCategory c : file.catergories) {
             System.out.println(c.toString());
         }
     } // main
