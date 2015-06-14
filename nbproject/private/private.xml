@@ -3,11 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/H:/My%20Documents/NetBeansProjects/AIMLToCSV/src/aimltocsv/AIMLFile.java</file>
-            <file>file:/H:/My%20Documents/NetBeansProjects/AIMLToCSV/src/aimltocsv/AIMLTemplate.java</file>
-            <file>file:/H:/My%20Documents/NetBeansProjects/AIMLToCSV/src/aimltocsv/AIMLToCSV.java</file>
-            <file>file:/H:/My%20Documents/NetBeansProjects/AIMLToCSV/src/aimltocsv/AIMLCategory.java</file>
-            <file>file:/H:/My%20Documents/NetBeansProjects/AIMLToCSV/src/aimltocsv/Converter.java</file>
+            <file>file:/home/scully/NetBeansProjects/AIMLToCSV/src/aimltocsv/AIMLCategory.java</file>
+            <file>file:/home/scully/NetBeansProjects/AIMLToCSV/src/aimltocsv/AIMLToCSV.java</file>
         </group>
     </open-files>
 </project-private>
